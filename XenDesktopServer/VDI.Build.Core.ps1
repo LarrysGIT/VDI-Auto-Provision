@@ -53,7 +53,7 @@ PARAM(
     [string]$SupportGroup,
 
     [parameter(Mandatory=$true)]
-    [ValidatePattern('(?i)FIL|IM')]
+    [ValidatePattern('(?i)Type1|Type2')]
     [string]$Environment,
 
     [parameter()]

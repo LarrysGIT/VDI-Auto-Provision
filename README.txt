@@ -15,7 +15,7 @@ Schema:
 	backend - XenDesktop 5.6 - read VDI creation request CSV file and process creating VDI
 
 Sharepoint references:
-	# use Restore-SPSite cmdlet to restore the BAK file - if you are unable to find BAK file in the repo, most likely still contains confidential information so I can't upload yet
+	# The sharepoint BAK file most likely contains confidential information so I can't upload yet
 	# Powershell export shartpoint page contents to CSV file
 	# Powershell import VDI reports
 
