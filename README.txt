@@ -1,6 +1,6 @@
 # VDI-Auto-Provision
 
-This is a set of scripts I special designed for my previous company, confidential information removed (as I know).
+This is a set of scripts I specially designed for my previous company, confidential information removed (as I know).
 **NOTE**: The project is quite ancient, based on old releases and specially designed for the company, I really dont think it can be directly used for whom download it. Most valuable is reference only.
 
 Environments:
